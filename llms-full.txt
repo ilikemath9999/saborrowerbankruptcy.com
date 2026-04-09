@@ -1,0 +1,311 @@
+# saborrowerbankruptcy.com -- Full Content
+
+This file contains the full text content of all pages on saborrowerbankruptcy.com.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## SBA Borrower Bankruptcy -- Loan Discharge Guide [2026]
+Source: https://saborrowerbankruptcy.com/
+
+🌐 Esta pagina esta disponible en Espanol
+
+SBA Borrower Bankruptcy
+
+Comparing Debt Relief Options for Small Business Owners
+
+Two Paths to Eliminate SBA Debt
+
+When you owe money on an SBA loan you cannot repay, there are two main paths: negotiate forgiveness directly with the SBA, or file bankruptcy to discharge the debt. Each has trade-offs in cost, speed, certainty, and credit impact. Most borrowers are not aware that both options exist, or how they compare.
+
+This guide walks through every SBA forgiveness and settlement program, then compares each one to bankruptcy discharge so you can make an informed decision. For a comprehensive overview of SBA loans in bankruptcy, see our main SBA borrower bankruptcy guide.
+
+SBA Offer in Compromise (OIC)
+
+The SBA's primary forgiveness program is the Offer in Compromise. You submit a financial disclosure package proving you cannot repay the full balance, and the SBA evaluates whether to accept a reduced lump-sum payment. The process is governed by SBA SOP 50 57.
+
+How much can you settle for? Typical OIC settlements range from 50% to 80% of the outstanding balance. The SBA considers your income, assets, monthly expenses, and future earning capacity. If you have substantial equity in real estate or other assets, the SBA will expect a higher settlement.
+
+Timeline: 6 to 12 months from submission to decision. During this period, collections may continue unless you specifically request a hold.
+
+Compared to bankruptcy: A Chapter 7 discharge eliminates 100% of the unsecured SBA debt in approximately 4 months, with no lump-sum payment required. OIC requires you to pay a significant amount; bankruptcy does not. However, OIC does not appear on your credit report as a bankruptcy filing.
+
+Treasury Offset and Hardship Programs
+
+Once the SBA refers your debt to the U.S. Treasury Department, collection escalates significantly. Treasury can intercept federal tax refunds, garnish up to 15% of Social Security benefits, and administratively garnish wages -- all without a court order. There is no statute of limitations on federal debt collection.
+
+Hardship determination: You can request a financial hardship review from Treasury's Bureau of the Fiscal Service. If approved, Treasury suspends active collection for a set period (usually 6-12 months). This is not forgiveness -- the debt remains and collection can resume.
+
+Compared to bankruptcy: The automatic stay protection in bankruptcy immediately halts all Treasury collection -- garnishments, offsets, and lawsuits. Upon discharge, the discharge injunction permanently bars Treasury from collecting. A hardship determination only pauses collection temporarily.
+
+EIDL Advance Forgiveness vs EIDL Loan Discharge
+
+Many borrowers confuse the EIDL Advance (grant) with the EIDL loan. The EIDL Advance -- up to $10,000 initially, then an additional $5,000 Supplemental Targeted Advance -- was a grant that did not need to be repaid. If you received the advance, it is already forgiven.
+
+The EIDL loan itself (up to $2 million at 3.75% over 30 years) is not forgivable. There is no SBA program to forgive EIDL loan principal. If you cannot make payments, your options are OIC, negotiated settlement, or bankruptcy.
+
+For a detailed guide on EIDL-specific bankruptcy options, see eidlbankruptcy.com.
+
+Negotiated Settlement Before Bankruptcy
+
+Before your debt reaches Treasury, you may be able to negotiate directly with the SBA or its contracted collection agency. Settlement offers in this window are often more favorable than OIC because the SBA has not yet paid for Treasury involvement.
+
+Key factors: The SBA is more likely to accept a lower settlement if the loan is unsecured or under-collateralized, if you have minimal attachable assets, if the cost of continued collection exceeds the expected recovery, or if you can pay the settlement amount quickly (30-90 days).
+
+Tax consequences: Forgiven debt over $600 generates a 1099-C from the SBA. You must report this as income unless you were insolvent at the time of cancellation. Bankruptcy discharge does not generate a 1099-C -- discharged debt is excluded from income under IRC Section 108(a)(1)(A). See 1099-C cancellation of debt in bankruptcy for details.
+
+When Bankruptcy Is the Better Option
+
+Bankruptcy is generally superior to SBA forgiveness programs when:
+
+1. You owe more than just SBA debt. Bankruptcy addresses all debts simultaneously -- credit cards, medical bills, deficiency balances, personal guarantees, and SBA loans. OIC only covers the SBA loan.
+
+2. You cannot afford the OIC settlement amount. Even at 50% of the balance, a $500,000 SBA loan requires a $250,000 lump-sum payment. Chapter 7 requires no payment to unsecured creditors.
+
+3. Treasury is already collecting. Once Treasury is offsetting your tax refunds and garnishing your wages, bankruptcy is the only way to stop collection permanently.
+
+4. You need speed. Chapter 7 discharge takes approximately 4 months. OIC takes 6-12 months with no guarantee of approval.
+
+5. You want to keep operating your business. Subchapter V lets you restructure the SBA loan while continuing business operations. No forgiveness program offers this.
+
+Frequently Asked Questions
+
+Does the SBA forgive loans?
+
+The SBA does not automatically forgive business loans. However, the SBA Offer in Compromise (OIC) program allows you to settle for less than the full balance if you can demonstrate inability to pay. EIDL Advance grants (up to $15,000) were forgivable and did not need to be repaid, but the EIDL loan itself is not forgivable.
+
+Is SBA loan forgiveness better than bankruptcy?
+
+It depends on your total debt load and timeline. SBA OIC takes 6-12 months, is not guaranteed, and typically settles for 50-80% of the balance. Bankruptcy can discharge 100% of unsecured SBA debt in as little as 4 months (Chapter 7). If you have debts beyond just the SBA loan, bankruptcy addresses everything at once.
+
+What happens to EIDL loans that cannot be repaid?
+
+Unpaid EIDL loans are referred to the Treasury Department for collection. Treasury can offset tax refunds, garnish wages, and place liens on property with no statute of limitations. Bankruptcy discharges EIDL debt completely and stops Treasury collection permanently.
+
+Can I negotiate with the SBA before filing bankruptcy?
+
+Yes. You can pursue an Offer in Compromise, request a hardship determination if Treasury is collecting, or negotiate a lump-sum settlement with the SBA's collection agency. Many borrowers try these options first and file bankruptcy only if negotiations fail or the settlement amount is still unaffordable.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code),
+SBA Standard Operating Procedures (SOP 50 57, SOP 50 51), IRC Section 108 (income exclusion
+for discharged debt), and the Small Business Reorganization Act of 2019 (Subchapter V).
+This is educational content, not legal advice.
+
+Related Guides
+
+Credit Card Debt in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Student Loans in Bankruptcy
+
+Taxes in Bankruptcy
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources on SBA debt relief and bankruptcy:
+
+SBA SOP 50 57
+7(a) Loan Servicing and Liquidation (includes OIC)
+
+Treasury Offset Program
+Bureau of the Fiscal Service -- federal debt collection
+
+IRC Section 108
+Income exclusion for discharged debt in bankruptcy
+
+Bankruptcy Basics
+USCourts.gov
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+SBA Loans and Bankruptcy
+
+Complete guide to discharging SBA debt
+
+sbaborrowerbankruptcy.com →
+
+Can You Discharge SBA Debt?
+
+Personal guarantees and co-signer liability
+
+sbaborrowersbankruptcy.com →
+
+EIDL Loans and Bankruptcy
+
+COVID disaster loan discharge guide
+
+eidlbankruptcy.com →
+
+1099-C Cancellation of Debt
+
+Tax consequences of forgiven debt
+
+1099cdebt.com →
+
+Your Next Questions
+
+Real users ask these next -- we built the answers.
+
+Chapter 7 vs Chapter 13
+
+Which chapter addresses your type of debt?
+
+chapter7vs13.org →
+
+How Much Does It Cost?
+
+Filing fees and attorney costs by chapter
+
+howmuchdoesbankruptcycost.com →
+
+The Automatic Stay
+
+How filing immediately stops collections
+
+automaticstay.org →
+
+How Discharge Works
+
+Which debts get wiped and which survive
+
+bankruptcydischarge.org →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+📖 Bankruptcy Glossary -- 61 terms explained
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+EIDL Bankruptcy
+Subchapter V
+Automatic Stay
+Exemptions by State
+Means Test
+File Without a Lawyer
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
